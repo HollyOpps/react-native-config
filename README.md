@@ -4,10 +4,11 @@ Module to expose config variables to your javascript code in React Native, suppo
 
 Bring some [12 factor](http://12factor.net/config) love to your mobile apps!
 
-
 ## IMPORTANT
 
-this repo just folk from **[react-native-config](https://github.com/luggit/react-native-config)** fix somebugs. an new libaray **[react-native-env](https://github.com/heyholly/react-native-env)** is on the way!!
+This repo just folk from **[react-native-config](https://github.com/luggit/react-native-config)** to fix some bugs and there is a new library **[react-native-env](https://github.com/heyholly/react-native-env)** is on the way!
+
+To view more usage just refer to **[react-native-env](https://github.com/heyholly/react-native-env)**
 
 ## Basic Usage
 
